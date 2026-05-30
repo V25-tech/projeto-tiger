@@ -23,6 +23,6 @@ python -m unittest projeto_tiger.py
 
 projeto tiger>python projeto_tiger.py
 
-🛠 Linkedln: vanusa-ferreira-6a60b637b
+🛠 https://linkedln.com/vanusa-ferreira-6a60b637b
 
 https://github.com/V25-tech/projeto-tiger.git
